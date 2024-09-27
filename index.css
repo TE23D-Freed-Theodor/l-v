@@ -1,0 +1,26 @@
+body {
+    background-image: url('showcase.jpg');
+    font-family: 'Roboto Mono', monospace;
+    color: blue;
+    background-color: yellow;
+    margin: 0;
+    padding: 20px;
+}
+
+.artikel {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+
+.sidfot {
+    background-image: url('logo-html-css-js.png');
+    background-repeat: no-repeat;
+    height: 100px;
+    margin-top: 20px;
+}
+
+img, video {
+    width: 200px;
+}
